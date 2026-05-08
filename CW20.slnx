@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Business/">
+    <Project Path="CW20.Business/CW20.Business.csproj" />
+  </Folder>
+  <Folder Name="/DbConnection/">
+    <Project Path="CW20.DbConnection/CW20.DbConnection.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="CW20.Domain/CW20.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/" />
+  <Folder Name="/Presentation/">
+    <Project Path="program/program.csproj" Id="10f73bdb-ca21-47bf-bf40-136a9113b1b9" />
+  </Folder>
+</Solution>

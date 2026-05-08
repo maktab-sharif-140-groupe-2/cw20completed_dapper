@@ -1,0 +1,1 @@
+ SELECT * FROM @GetTableName WHERE Id = @Id
